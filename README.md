@@ -1,4 +1,4 @@
-# HBB_MiniProject_ShreyaLastName
+# HBB_MiniProject_ShreyaBansode
 
 ## 📌 Project Title
 **Evolutionary Analysis of the HBB Gene Across Multiple Species**
